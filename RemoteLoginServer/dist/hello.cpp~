@@ -1,0 +1,65 @@
+#include<iostream>
+using namespace std;
+int main(){
+cout<<"hello workd";
+return 1;
+}
+:w hello.cpp
+
+
+
+
+
+
+
+
+
+
+:q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:w
+
+
+
+
+
+D
+C
+D
+C
+D
+C
+D
+C
+D
+C
+B
+A
+B
+A
+B
+B
+B
+A
+A
+A
+A
+
